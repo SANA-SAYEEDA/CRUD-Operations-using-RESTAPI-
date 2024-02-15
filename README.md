@@ -1,2 +1,2 @@
-# Calculate Percentage-using-REST API-
-Spring Tool Suite Project on Student Percentage Calculation  
+# STS Projects
+Spring Tool Suite Projects on Student Entity using RESTAPI
